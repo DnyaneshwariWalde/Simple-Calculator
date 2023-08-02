@@ -1,6 +1,7 @@
 # Simple Calculator
 
-![Calculator Preview](https://cdn.wallpaperhub.app/cloudcache/6/c/2/9/3/d/6c293dcd19ad1ac65056563d9462a5967557c90e.jpg)
+![Calculator Preview]![Screenshot (289)](https://github.com/DnyaneshwariWalde/Simple-Calculator/assets/120588435/afc588f7-ccaf-47ca-8516-2f38e4ac59df)
+
 
 ## Description
 
@@ -8,7 +9,7 @@ This is a simple calculator web application that allows you to perform basic ari
 
 ## Live Demo
 
-You can try out the live demo of the calculator [here](https://example.co).
+You can try out the live demo of the calculator [here](https://dnyaneshwariwalde.github.io/Simple-Calculator/).
 
 ## Features
 
